@@ -49,16 +49,16 @@ Conditionals=
 DebugSourceDirs=D:\ym_source\cch\dm\
 UsePackages=0
 [Parameters]
-RunParams=run 192.9.10.100 2000
+RunParams=run 192.9.10.99 2001
 HostApplication=
 [Language]
 ActiveLang=
 ProjectLang=$00000404
 RootDir=
 [Version Info]
-IncludeVerInfo=0
+IncludeVerInfo=1
 AutoIncBuild=0
-MajorVer=1
+MajorVer=2
 MinorVer=0
 Release=0
 Build=0
@@ -70,7 +70,15 @@ DLL=0
 Locale=1028
 CodePage=950
 [Version Info Keys]
-FileVersion=1.0.0.0
+CompanyName=
+FileDescription=
+FileVersion=2.0.0.0
+InternalName=
+LegalCopyright=
+LegalTrademarks=
+OriginalFilename=
+ProductName=
+ProductVersion=1.0.0.0
 [Excluded Packages]
 $(DELPHI)\Projects\Bpl\ICSDEL50.bpl=Internet Components Suite (ICS) - Freeware from F. Piette
 $(DELPHI)\Projects\Bpl\MIL_TLB1.bpl=(untitled)

@@ -39,6 +39,7 @@ uses
 
 begin
   Application.Initialize;
+  Application.Title := '一線員工X光檢查清單';
   Application.CreateForm(TForm1, Form1);
   Application.CreateForm(TIWORKLST1_dm, IWORKLST1_dm);
   Application.CreateForm(Tsession_dm, session_dm);
