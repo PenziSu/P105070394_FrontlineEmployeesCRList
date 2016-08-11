@@ -39,7 +39,7 @@ MaxStackSize=1048576
 ImageBase=4194304
 ExeDescription=
 [Directories]
-OutputDir=D:\ym_source\cch\bin\mark\P105070394-FirstLineXRAYDelete\
+OutputDir=D:\ym_source\cch\bin\mark\
 UnitOutputDir=
 PackageDLLOutputDir=
 PackageDCPOutputDir=
@@ -95,9 +95,9 @@ Count=1
 Item0=WinTypes=Windows;WinProcs=Windows;DbiTypes=BDE;DbiProcs=BDE;DbiErrs=BDE;
 [HistoryLists\hlOutputDirectorry]
 Count=20
-Item0=D:\ym_source\cch\bin\mark\P105070394-FirstLineXRAYDelete\
-Item1=D:\ym_source\cch\bin\mark\Copy_Iworklst_to_Iworklst1\
-Item2=D:\ym_source\cch\bin\mark\
+Item0=D:\ym_source\cch\bin\mark\
+Item1=D:\ym_source\cch\bin\mark\P105070394-FirstLineXRAYDelete\
+Item2=D:\ym_source\cch\bin\mark\Copy_Iworklst_to_Iworklst1\
 Item3=..\bin\chunwei\cch
 Item4=..\bin\jack\cch
 Item5=D:\ym_source\cch\bin\winnie\cch

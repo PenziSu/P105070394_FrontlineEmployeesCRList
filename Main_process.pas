@@ -67,7 +67,6 @@ type
     procedure cbEndYearChange(Sender: TObject);
   private
     { Private declarations }
-//    function WriteDataIntoDataset(AID:String):Boolean;
     function ReadIXRYASG2(DateFlag:string):Boolean;
     function WriteDataIntoDataset(IDNO,StuffName:string;Stuff_PID,ExamDate,OrderDate:Integer;AID,ImageFlag:string):Boolean;
     function GetIWORKLSTDataByAccessionNumber(AID:string):Boolean;
